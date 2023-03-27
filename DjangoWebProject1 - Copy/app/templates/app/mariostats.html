@@ -1,0 +1,14 @@
+{% extends "app/layout.html" %}
+
+{% block content %}
+
+<h2>{{ title }}.</h2>
+<h3>{{ message }}</h3>
+
+{% if graph != '' %}
+<img src="data:image/png;base64,{{ graph|safe }}" style="margin-bottom:35px; height:800px; width:1200px;" />
+{% endif %}
+<br />
+{{ data_frame|safe }}
+
+{% endblock %}

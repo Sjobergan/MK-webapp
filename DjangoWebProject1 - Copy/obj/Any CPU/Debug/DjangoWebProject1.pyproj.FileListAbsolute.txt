@@ -1,0 +1,2 @@
+C:\Users\janne\source\repos\DjangoWebProject1\obj\Any CPU\Debug\DjangoWebProject1.pyproj.CoreCompileInputs.cache
+C:\Users\janne\Netconsult_development\Mario\DjangoWebProject1 - Copy\obj\Any CPU\Debug\DjangoWebProject1.pyproj.CoreCompileInputs.cache
